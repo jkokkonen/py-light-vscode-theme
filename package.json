@@ -1,0 +1,27 @@
+{
+    "name": "py-light",
+    "displayName": "Py Light",
+    "description": "Light color theme inspired by code examples in Python.org",
+    "version": "0.9.0",
+    "publisher": "juhakokkonen",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Py Light",
+                "uiTheme": "vs",
+                "path": "./themes/Py Light-color-theme.json"
+            }
+        ]
+    },
+    "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jkokkonen/py-light-vscode-theme.git"
+    }
+}
