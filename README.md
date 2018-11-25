@@ -12,4 +12,4 @@ Light color theme inspired by code examples in Python.org
 
 ## License
 
-[MIT License](https://github.com/jkokkonen/py-light-vscode-theme/LICENSE.txt)
+[MIT License](https://github.com/jkokkonen/py-light-vscode-theme/blob/master/LICENSE.txt)
